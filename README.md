@@ -1,0 +1,2 @@
+# AUTOMATIC-WASTE-SEGREGATION-SYSTEM-USING-ARDUINO-UNO
+This project aims to develop an optimized waste management system by streamlining the segregation process, reducing manual effort, and improving recycling efficiency. The system integrates an IR sensor to detect non- metallic dry waste, a proximity sensor inductive type to identify metallic waste, and a raindrop module to differentiate wet waste. 
